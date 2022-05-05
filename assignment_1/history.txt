@@ -1,0 +1,1000 @@
+   15  module list
+   16  less gauss2d.cc
+   17  less gauss2d
+   18  cat Makefile
+   19  vim plot.py
+   20  gedit plot.py
+   21  cd gauss2d
+   22  ls -al
+   23  ls -la
+   24  less gauss2d.cc
+   25  cat Makefile
+   26  vim plot.py
+   27  gedit plot.py
+   28  g++ gauss2d.cc -o gauss2d
+   29  module load gcc/5.4.0
+   30  module unload gcc
+   31  module load gcc/5.4.0
+   32  g++ gauss2d.cc -o gauss2d
+   33  g++ gauss2d.cc
+   34  ls -lt
+   35  ./a.out
+   36  .'gauss2d > data.txt
+   37  ./a.out
+   38  q
+   39  ./a.out
+   40  done
+   41  :q
+   42  :q!
+   43  q
+   44  pushd
+   45  cd cta200
+   46  ..
+   47  /..
+   48  ../
+   49  cd ..
+   50  cd cta200
+   51  ls -l
+   52  ~
+   53  ls
+   54  cd Research
+   55  ls
+   56  cd gauss2d/
+   57  ls
+   58  module list
+   59  module load gcc/5.4.0
+   60  g++ gauss2d.cc -o gauss2d
+   61  ls lt
+   62  ls -lt
+   63  cp gauss2d.cc
+   64  g++ gauss2d.cc
+   65  module load python/2.7.12
+   66  module load python
+   67  pwd
+   68  ./script.py
+   69  more plot.py
+   70  chmod 777 gauss2d.cc
+   71  ls -la
+   72  chmod u+x plot.py
+   73  cd
+   74  pushd
+   75  pwd
+   76  ..
+   77  cd...
+   78  cd ..
+   79  ls
+   80  cd student21/
+   81  pwd
+   82  list
+   83  ls
+   84  more Research
+   85  cd ..
+   86  ls
+   87  cd cta200/
+   88  cd research
+   89  cd Research
+   90  cd mnt
+   91  cd ..
+   92  ls
+   93  cd Reseach
+   94  ~
+   95  cd ..
+   96  ls
+   97  module load python/2.7.3
+   98  module ls
+   99  module avail
+  100  pip freeze | grep pygrace
+  101  module python
+  102  python
+  103  module python
+  104  module load python/2.7.3
+  105  ./coonfigure --prefix=...
+  106  ./configure --prefix=...
+  107  cd ..
+  108  mkdir git_example/
+  109  pwd
+  110  cd ..
+  111  ls
+  112  ~
+  113  cd ..
+  114  ls
+  115  mkdir git_example
+  116  ~
+  117  ls
+  118  ls -la
+  119  ~
+  120  la
+  121  ls
+  122  cd home
+  123  ls
+  124  cd student21
+  125  pqd
+  126  pwd
+  127  ls
+  128  mkdir git_example
+  129  ls -la
+  130  ls la
+  131  ls
+  132  cd git_example
+  133  ls
+  134  ls -la
+  135  git init
+  136  ls -l
+  137  ls -la
+  138  git status
+  139  pushd /home/fhorrobin/
+  140  ls
+  141  cd git_example
+  142  ls
+  143  cp main.c /cita/home/student21/git_example
+  144  cp main.py /cita/home/student21/git_example
+  145  pushd
+  146  ls
+  147  git add main.c main.py
+  148  git.status
+  149  git status
+  150  git commit
+  151  git status
+  152  git log
+  153  vim main.c
+  154  git statur
+  155  git status
+  156  git add -u
+  157  git status
+  158  git commit
+  159  git status
+  160  git log
+  161  git branch
+  162  git branch new feature
+  163  git checkot
+  164  git checkout
+  165  git branch
+  166  module load gcc
+  167  gcc main.c
+  168  more main.c
+  169  ls
+  170  git status
+  171  vim .gitignore
+  172  git status
+  173  vim .gitignore 
+  174  more .gitignore
+  175  vim .gitignore 
+  176  git status
+  177  git add
+  178  git add .gitig
+  179  git add .gitignore 
+  180  git commit
+  181  git status
+  182  vim mian.c
+  183  git status
+  184  ls
+  185  git branch newbranch
+  186  git branch
+  187  git chechout master
+  188  git checkout master
+  189  git merge newbranch
+  190  git branch
+  191  git branch -d newbranch 
+  192  git branch
+  193  ssh-keygen
+  194  cd
+  195  cd .ssh
+  196  ls -la
+  197  more id_rsa.pub
+  198  cd git_example
+  199  ls
+  200  ~
+  201  ls
+  202  git init
+  203  ls
+  204  cd known_hosts
+  205  ls
+  206  ls -la
+  207  cd .git
+  208  ls
+  209  git remote add origin git@github.com:Ryan-Unrau/git_example.git
+  210  git push -u origin main
+  211  git branch
+  212  git init
+  213  git branch
+  214  ls
+  215  git init
+  216  git branch
+  217  git statis
+  218  git status
+  219  pwd
+  220  ls
+  221  cd git_example
+  222  git branch
+  223  git remote add origin git@github.com:Ryan-Unrau/git_example.git
+  224  git status
+  225  git push -u origin main
+  226  git branch -M main
+  227  git branch
+  228  git push -u origin main
+  229  git push CITA mian
+  230  git push -u CITA main
+  231  git push -u origin main
+  232  git status
+  233  ls
+  234  git branch
+  235  git push -u origin main
+  236  git remote add origin git@github.com:Ryan-Unrau/CITA.git
+  237  git init
+  238  cd git_example
+  239  ls
+  240  git remote add origin git@github.com:Ryan-Unrau/CITA.git
+  241  git remote add Origin git@github.com:Ryan-Unrau/CITA.git
+  242  git branch
+  243  git push -u Origin main
+  244  git rm origin
+  245  git remote -v
+  246  git remote rm origin
+  247  git remote rm Origin
+  248  git remote add origin git@github.com:Ryan-Unrau/CITA.git
+  249  git branch -M main
+  250  git push -u origin main
+  251  git remote -v
+  252  ~
+  253  ls
+  254  pwd
+  255  cd ~
+  256  pwd
+  257  ls
+  258  cd mnt
+  259  cd /mnt
+  260  pwd
+  261  ls
+  262  cd ..
+  263  pwd
+  264  ls
+  265  cd /mnt/scratch-lustre
+  266  ls
+  267  mkdir CTA200_2022
+  268  pwd
+  269  cd CITA
+  270  cd student21
+  271  pwd
+  272  ls
+  273  /mkdir CTA200_2020
+  274  ls
+  275  mkdir CTA200_2022
+  276  ls
+  277  cd CTA200_2022/
+  278  pqd
+  279  pwd
+  280  ls -a
+  281  ls
+  282  ls -la
+  283  mkdir assignment_1
+  284  man
+  285  file
+  286  pwd
+  287  > README.md
+  288  ls
+  289  vim README.md 
+  290  pushd /murray
+  291  pushd ~murray
+  292  ls
+  293  ls *Hello_world.c
+  294  pwd
+  295  find -name "*Hellow*"
+  296  q:q
+  297  q
+  298  ls
+  299  find -name "Hello"
+  300  find -name "Hello_world.c"
+  301  find. -name "Hello_world.c"
+  302  find .-name "Hello_world.c"
+  303  find .-name "Hello"
+  304  find -name "Hello_world.c"
+  305  pushd
+  306  pwd
+  307  git clone git@github.com:CITA/CTA200H.git
+  308  ls
+  309  cd CTA200H
+  310  ls
+  311  ls -la
+  312  module
+  313  module load python
+  314  jupyter
+  315  pwd
+  316  ls
+  317  module load python
+  318  jupyter notebook
+  319  cd
+  320  pwd
+  321  ~
+  322  .
+  323  ./
+  324  ../
+  325  /.
+  326  ..
+  327  echo $0
+  328  ls
+  329  ls -la
+  330  more .cshrc
+  331  cd
+  332  cd ~
+  333  cd /
+  334  pwd
+  335  cd
+  336  pwd
+  337  git clone git@github.com:CITA/CTA200H.git
+  338  cd
+  339  pwd
+  340  find -name "*auss*"
+  341  ssh -g -L5906:cosmo4:5906 student21@gw.cita.utoronto.ca
+  342  pwd
+  343  cd mnt
+  344  cd /mnt
+  345  pwd
+  346  cd ..
+  347  pwd
+  348  ls
+  349  cd scratch
+  350  ls
+  351  pwd
+  352  cd mnt
+  353  cd /scratch
+  354  ls
+  355  pwd
+  356  cd /mnt
+  357  ls
+  358  cd scratch-lustre
+  359  ls
+  360  cd student21
+  361  ls
+  362  cd CTA200_2022/
+  363  ls
+  364  pwd
+  365  vim README.md 
+  366  ls -la
+  367  pushd /murray
+  368  pushd murray
+  369  pushd ~murray
+  370  cd papers
+  371  cd ./papers
+  372  cd /home/murray/papers
+  373  ls
+  374  cd Papers
+  375  ls
+  376  cd ..
+  377  pw
+  378  pwd
+  379  find -name "Hello_world"
+  380  find /-name Hellow_world.c
+  381  find /-name Hello_world.c
+  382  find /-name Hello_world
+  383  find /-name Hello
+  384  pwd
+  385  find -name Hello_world.c
+  386  cd Papers/tmp
+  387  pwd
+  388  ls
+  389  find -name "Hello_world.c"
+  390  pushd
+  391  cp ./Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022/
+  392  pushd
+  393  ls
+  394  rm Hello_world.c 
+  395  ls
+  396  pushd
+  397  cp ./Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022/assignment_1/
+  398  history
+  399  cd /mnt/scratch-lustre/student21/CTA200_2022/
+  400  pushd /home/murray/Papers/tmp
+  401  cp ./Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022/assignment_1/
+  402  history
+  403  pushd
+  404  cd /mnt/scratch-lustre/student21/CTA200_2022/
+  405  pushd /home/murray/Papers/tmp
+  406  ls
+  407  cp Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022/
+  408  ls *.py
+  409  more test.py
+  410  main.py
+  411  module load python
+  412  python main.py
+  413  pwd
+  414  pushd
+  415  pwd
+  416  cd..
+  417  cd ..
+  418  pwd
+  419  ls
+  420  find -name "*auss*"
+  421  find -name "*cta*"
+  422  more ./cta200/
+  423  pushd ./cta200/
+  424  ls -la
+  425  find -name "*gauss*"
+  426  more ./Research/gauss2d
+  427  pushd /mnt/scratch-lustre
+  428  mkdir /mnt/scratch-lustre/$USER/gauss2d
+  429  pushd
+  430  cp -av /home/cta200/Research/gauss2d /mnt/scratch-lustre/$USER/gauss2d
+  431  pushd
+  432  ls -la
+  433  ls *.$USER
+  434  cd student21/gauss2d
+  435  pwd
+  436  ls -la
+  437  module load gcc
+  438  module list
+  439  less gauss2d.cc
+  440  less gauss2d
+  441  cat Makefile
+  442  vim plot.py
+  443  gedit plot.py
+  444  cd gauss2d
+  445  ls -al
+  446  ls -la
+  447  less gauss2d.cc
+  448  cat Makefile
+  449  vim plot.py
+  450  gedit plot.py
+  451  g++ gauss2d.cc -o gauss2d
+  452  module load gcc/5.4.0
+  453  module unload gcc
+  454  module load gcc/5.4.0
+  455  g++ gauss2d.cc -o gauss2d
+  456  g++ gauss2d.cc
+  457  ls -lt
+  458  ./a.out
+  459  .'gauss2d > data.txt
+  460  ./a.out
+  461  q
+  462  ./a.out
+  463  done
+  464  :q
+  465  :q!
+  466  q
+  467  pushd
+  468  cd cta200
+  469  ..
+  470  /..
+  471  ../
+  472  cd ..
+  473  cd cta200
+  474  ls -l
+  475  ~
+  476  ls
+  477  cd Research
+  478  ls
+  479  cd gauss2d/
+  480  ls
+  481  module list
+  482  module load gcc/5.4.0
+  483  g++ gauss2d.cc -o gauss2d
+  484  ls lt
+  485  ls -lt
+  486  cp gauss2d.cc
+  487  g++ gauss2d.cc
+  488  module load python/2.7.12
+  489  module load python
+  490  pwd
+  491  ./script.py
+  492  more plot.py
+  493  chmod 777 gauss2d.cc
+  494  ls -la
+  495  chmod u+x plot.py
+  496  cd
+  497  pushd
+  498  pwd
+  499  ..
+  500  cd...
+  501  cd ..
+  502  ls
+  503  cd student21/
+  504  pwd
+  505  list
+  506  ls
+  507  more Research
+  508  cd ..
+  509  ls
+  510  cd cta200/
+  511  cd research
+  512  cd Research
+  513  cd mnt
+  514  cd ..
+  515  ls
+  516  cd Reseach
+  517  ~
+  518  cd ..
+  519  ls
+  520  module load python/2.7.3
+  521  module ls
+  522  module avail
+  523  pip freeze | grep pygrace
+  524  module python
+  525  python
+  526  module python
+  527  module load python/2.7.3
+  528  ./coonfigure --prefix=...
+  529  ./configure --prefix=...
+  530  cd ..
+  531  mkdir git_example/
+  532  pwd
+  533  cd ..
+  534  ls
+  535  ~
+  536  cd ..
+  537  ls
+  538  mkdir git_example
+  539  ~
+  540  ls
+  541  ls -la
+  542  ~
+  543  la
+  544  ls
+  545  cd home
+  546  ls
+  547  cd student21
+  548  pqd
+  549  pwd
+  550  ls
+  551  mkdir git_example
+  552  ls -la
+  553  ls la
+  554  ls
+  555  cd git_example
+  556  ls
+  557  ls -la
+  558  git init
+  559  ls -l
+  560  ls -la
+  561  git status
+  562  pushd /home/fhorrobin/
+  563  ls
+  564  cd git_example
+  565  ls
+  566  cp main.c /cita/home/student21/git_example
+  567  cp main.py /cita/home/student21/git_example
+  568  pushd
+  569  ls
+  570  git add main.c main.py
+  571  git.status
+  572  git status
+  573  git commit
+  574  git status
+  575  git log
+  576  vim main.c
+  577  git statur
+  578  git status
+  579  git add -u
+  580  git status
+  581  git commit
+  582  git status
+  583  git log
+  584  git branch
+  585  git branch new feature
+  586  git checkot
+  587  git checkout
+  588  git branch
+  589  module load gcc
+  590  gcc main.c
+  591  more main.c
+  592  ls
+  593  git status
+  594  vim .gitignore
+  595  git status
+  596  vim .gitignore 
+  597  more .gitignore
+  598  vim .gitignore 
+  599  git status
+  600  git add
+  601  git add .gitig
+  602  git add .gitignore 
+  603  git commit
+  604  git status
+  605  vim mian.c
+  606  git status
+  607  ls
+  608  git branch newbranch
+  609  git branch
+  610  git chechout master
+  611  git checkout master
+  612  git merge newbranch
+  613  git branch
+  614  git branch -d newbranch 
+  615  git branch
+  616  ssh-keygen
+  617  cd
+  618  cd .ssh
+  619  ls -la
+  620  more id_rsa.pub
+  621  cd git_example
+  622  ls
+  623  ~
+  624  ls
+  625  git init
+  626  ls
+  627  cd known_hosts
+  628  ls
+  629  ls -la
+  630  cd .git
+  631  ls
+  632  git remote add origin git@github.com:Ryan-Unrau/git_example.git
+  633  git push -u origin main
+  634  git branch
+  635  git init
+  636  git branch
+  637  ls
+  638  git init
+  639  git branch
+  640  git statis
+  641  git status
+  642  pwd
+  643  ls
+  644  cd git_example
+  645  git branch
+  646  git remote add origin git@github.com:Ryan-Unrau/git_example.git
+  647  git status
+  648  git push -u origin main
+  649  git branch -M main
+  650  git branch
+  651  git push -u origin main
+  652  git push CITA mian
+  653  git push -u CITA main
+  654  git push -u origin main
+  655  git status
+  656  ls
+  657  git branch
+  658  git push -u origin main
+  659  git remote add origin git@github.com:Ryan-Unrau/CITA.git
+  660  git init
+  661  cd git_example
+  662  ls
+  663  git remote add origin git@github.com:Ryan-Unrau/CITA.git
+  664  git remote add Origin git@github.com:Ryan-Unrau/CITA.git
+  665  git branch
+  666  git push -u Origin main
+  667  git rm origin
+  668  git remote -v
+  669  git remote rm origin
+  670  git remote rm Origin
+  671  git remote add origin git@github.com:Ryan-Unrau/CITA.git
+  672  git branch -M main
+  673  git push -u origin main
+  674  git remote -v
+  675  ~
+  676  ls
+  677  pwd
+  678  cd ~
+  679  pwd
+  680  ls
+  681  cd mnt
+  682  cd /mnt
+  683  pwd
+  684  ls
+  685  cd ..
+  686  pwd
+  687  ls
+  688  cd /mnt/scratch-lustre
+  689  ls
+  690  mkdir CTA200_2022
+  691  pwd
+  692  cd CITA
+  693  cd student21
+  694  pwd
+  695  ls
+  696  /mkdir CTA200_2020
+  697  ls
+  698  mkdir CTA200_2022
+  699  ls
+  700  cd CTA200_2022/
+  701  pqd
+  702  pwd
+  703  ls -a
+  704  ls
+  705  ls -la
+  706  mkdir assignment_1
+  707  man
+  708  file
+  709  pwd
+  710  > README.md
+  711  ls
+  712  vim README.md 
+  713  pushd /murray
+  714  pushd ~murray
+  715  ls
+  716  ls *Hello_world.c
+  717  pwd
+  718  find -name "*Hellow*"
+  719  q:q
+  720  q
+  721  ls
+  722  find -name "Hello"
+  723  find -name "Hello_world.c"
+  724  find. -name "Hello_world.c"
+  725  find .-name "Hello_world.c"
+  726  find .-name "Hello"
+  727  find -name "Hello_world.c"
+  728  pushd
+  729  pwd
+  730  git clone git@github.com:CITA/CTA200H.git
+  731  ls
+  732  cd CTA200H
+  733  ls
+  734  ls -la
+  735  module
+  736  module load python
+  737  jupyter
+  738  pwd
+  739  ls
+  740  module load python
+  741  jupyter notebook
+  742  cd
+  743  pwd
+  744  ~
+  745  .
+  746  ./
+  747  ../
+  748  /.
+  749  ..
+  750  echo $0
+  751  ls
+  752  ls -la
+  753  more .cshrc
+  754  cd
+  755  cd ~
+  756  cd /
+  757  pwd
+  758  cd
+  759  pwd
+  760  git clone git@github.com:CITA/CTA200H.git
+  761  cd
+  762  pwd
+  763  find -name "*auss*"
+  764  ssh -g -L5906:cosmo4:5906 student21@gw.cita.utoronto.ca
+  765  pwd
+  766  cd mnt
+  767  cd /mnt
+  768  pwd
+  769  cd ..
+  770  pwd
+  771  ls
+  772  cd scratch
+  773  ls
+  774  pwd
+  775  cd mnt
+  776  cd /scratch
+  777  ls
+  778  pwd
+  779  cd /mnt
+  780  ls
+  781  cd scratch-lustre
+  782  ls
+  783  cd student21
+  784  ls
+  785  cd CTA200_2022/
+  786  ls
+  787  pwd
+  788  vim README.md 
+  789  ls -la
+  790  pushd /murray
+  791  pushd murray
+  792  pushd ~murray
+  793  cd papers
+  794  cd ./papers
+  795  cd /home/murray/papers
+  796  ls
+  797  cd Papers
+  798  ls
+  799  cd ..
+  800  pw
+  801  pwd
+  802  find -name "Hello_world"
+  803  find /-name Hellow_world.c
+  804  find /-name Hello_world.c
+  805  find /-name Hello_world
+  806  find /-name Hello
+  807  pwd
+  808  find -name Hello_world.c
+  809  cd Papers/tmp
+  810  pwd
+  811  ls
+  812  find -name "Hello_world.c"
+  813  pushd
+  814  cp ./Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022/
+  815  pushd
+  816  ls
+  817  rm Hello_world.c 
+  818  ls
+  819  pushd
+  820  cp ./Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022/assignment_1/
+  821  history
+  822  cd /mnt/scratch-lustre/student21/CTA200_2022/
+  823  pushd /home/murray/Papers/tmp
+  824  cp ./Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022/assignment_1/
+  825  history
+  826  pushd
+  827  cd /mnt/scratch-lustre/student21/CTA200_2022/
+  828  pushd /home/murray/Papers/tmp
+  829  ls
+  830  cp Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022/
+  831  cd /mnt/scratch-lustre/student21/CTA200_2022/
+  832  ls
+  833  cd assignment_1/
+  834  ls
+  835  > history.txt
+  836  ls
+  837  pushd /home/murray/Papers/tmp
+  838  ls
+  839  more Hello_world.exe
+  840  cd /home/murray
+  841  find -name "Hello_world.py"
+  842  cd tmp
+  843  ls
+  844  cp Hello_world.py /mnt/scratch-lustre/student21/CTA200_2022/assignment_1/
+  845  pushd
+  846  ls
+  847  man mv
+  848  mv Hello_world.c Hello_world_Unrau.c
+  849  ls
+  850  mv Hello_world.c Hello_world_Unrau.py
+  851  mv Hello_world.py Hello_world_Unrau.py
+  852  ls
+  853  module load gcc
+  854  module load python
+  855  module list
+  856  ls -la
+  857  chmod 777 Hello_world_Unrau.c
+  858  chmod 777 Hello_world_Unrau.py
+  859  ls -la
+  860  mv Hello_world_Unrau.c Hello_world_Unrau.x
+  861  ls
+  862  gcc Hello_world_Unrau.x
+  863  more Hello_world_Unrau.x
+  864  mv Hello_world_Unrau.x Hello_world_Unrau.c
+  865  more Hello_world_Unrau.c
+  866  more Hello_world_Unrau.
+  867  more Hello_world_Unrau.py
+  868  ls -la
+  869  pushd
+  870  ls
+  871  ls -la
+  872  cd /home/murray/Papers/tmp
+  873  ls -la
+  874  more Hello_world.c
+  875  cp Hello_world.c /mnt/scratch-lustre/student21/CTA200_2022//assignment_1/
+  876  pushd
+  877  ls -la
+  878  rm Hello_world_Unrau.c
+  879  mv Hello_world.c Hello_world_Unrau.c
+  880  ls -la
+  881  gcc Hello_world_Unrau.c
+  882  ls
+  883  mv a.out Hello_world.x
+  884  ls -la
+  885  ./Hello_world.x
+  886  python Hello_world_Unrau.py
+  887  vi Hello_world_Unrau.c
+  888  vi Hello_world_Unrau.py
+  889  ./Hello_world.x
+  890  gcc Hello_world_Unrau.c
+  891  ls
+  892  man >
+  893  man <
+  894  > output_c.txt
+  895  > output_python.txt
+  896  ls
+  897  rm a.out
+  898  ls
+  899  gcc Hello_world_Unrau.c | output_c.txt
+  900  gcc Hello_world_Unrau.c | >  output_c.txt
+  901  more output_c.txt 
+  902  gcc Hello_world_Unrau.c | > output_c.txt
+  903  more output_c.txt 
+  904  vim output_c.txt 
+  905  gcc Hello_world_Unrau.c
+  906  ./a.out > output_c.txt
+  907  more output_c.txt
+  908  python Hello_world_Unrau.py > output_py.txt
+  909  more output_py.txt 
+  910  ls -la
+  911  python Hello_world_Unrau.py > output_python.txt
+  912  ls -la
+  913  rm output_py.txt 
+  914  ls -la
+  915  history 
+  916  history > history.txt
+  917  ls -la
+  918  more history.txt 
+  919  man history
+  920  his
+  921  history
+  922  rm history.txt
+  923  > history.txt
+  924  ls
+  925  history [380] [430] > history.txt
+  926  history | grep /mkdir
+  927  history 397
+  928  history fc397
+  929  history echo /mkdir CTA200_2020
+  930  ls
+  931  cd ..
+  932  ls
+  933  cd assignment_1/
+  934  /mkdir CTA200_2020 > history.txt 
+  935  echo /mkdir CTA200_2020 > history.txt 
+  936  more history.txt 
+  937  history | grep >
+  938  history | grep README
+  939  history [380-430]
+  940  history 380-430
+  941  ls
+  942  more history.txt
+  943  vim history.txt 
+  944  more history.txt 
+  945  history -n 380-430
+  946  ls -la
+  947  more history.txt 
+  948  history -n 380-430 > history.txt 
+  949  more history.txt 
+  950  vim history.txt 
+  951  history -w 380-430 history.txt
+  952  more history.txt 
+  953  ls -la
+  954  chm 777 history.txt 
+  955  chmod 777 history.txt 
+  956  history -w 380-430 history.txt
+  957  more history.txt 
+  958  ls -la
+  959  more 380-430
+  960  ls 
+  961  rm 380-430
+  962  ls
+  963  history | grep push
+  964  pwd
+  965  cd ..
+  966  pwd
+  967  git init
+  968  git status
+  969  git add README.md 
+  970  git -u
+  971  git commit -u
+  972  git status
+  973  git add Hello_world_U
+  974  git add Hello_world_Unrau.c
+  975  git add assignment_1/Hello_world_Unrau.c
+  976  git add assignment_1/Hello_world_Unrau.py
+  977  git status
+  978  git add assignment_1/output_c.txt 
+  979  git add assignment_1/output_py.txt
+  980  git add assignment_1/output_python.txt 
+  981  git status
+  982  git commit -u
+  983  git status
+  984  git log
+  985  git status
+  986  git add assignment_1/history.txt 
+  987  git rm assignment_1/history.txt 
+  988  git status
+  989  git restore
+  990  git restore assignment_1/history.txt 
+  991  git status
+  992  git restore --staged assignment_1/history.txt 
+  993  git status
+  994  git remote add origin git@github.com:Ryan-Unrau/CTA200_2022.git
+  995  git branch -M main
+  996  git push -u origin main
+  997  pwd
+  998  cd /mnt
+  999  ls
+ 1000  /mnt/scratch-lustre/student21/CTA200_2022/
+ 1001  pwd
+ 1002  cd /mnt/scratch-lustre/student21/CTA200_2022/
+ 1003  pwd
+ 1004  ls
+ 1005  module load python
+ 1006  module list
+ 1007  jupyter python
+ 1008  jupyter notebook
+ 1009  history
+ 1010  pwd
+ 1011  ls
+ 1012  cd assignment_1/
+ 1013  ls
+ 1014  history > history.txt
